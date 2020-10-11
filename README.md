@@ -17,8 +17,8 @@
   * Online skill portfolio to showcase your blockchain verified skills
 
 ## MVP
-* [Verified portfolio using HyperLedger Sawtooth code](https://github.com/adhithyaarun/skill-wallet/tree/blockchain)
-* [Learning pathway recommendations](https://github.com/adhithyaarun/skill-wallet/tree/recommender-system) 
+* [Verified portfolio using HyperLedger Sawtooth (code)](https://github.com/adhithyaarun/skill-wallet/tree/blockchain)
+* [Learning pathway recommendation system](https://github.com/adhithyaarun/skill-wallet/tree/recommender-system) 
 * [User Interface](https://www.figma.com/proto/8NAXn07z9JlQVvIuSUEU2S/SkillWallet-Workflow?node-id=9%3A2285&scaling=scale-down)
 
 # SkillWallet
