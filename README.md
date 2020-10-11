@@ -2,7 +2,7 @@
 
 ## Introduction
 * The Babylon Project, World Blockchain Hackathon - 100% community-funded initiative dedicated to inspiring and democratizing awareness and access to global innovation in blockchain.
-* Presentation link - 
+* Presentation link - https://github.com/adhithyaarun/skill-wallet/blob/main/Skill%20Wallet%20Pitch%20Deck.pdf
 * Video link - 
 
 ## Problem statement
