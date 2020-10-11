@@ -19,7 +19,7 @@
   * Online skill portfolio to showcase your blockchain verified skills
 
 ## MVP
-* Verified credentials - https://github.com/adhithyaarun/skill-wallet/tree/blockchain please update details here.
+* Verified credentials - https://github.com/adhithyaarun/skill-wallet/tree/blockchain
 * Learning pathway recommendations - https://github.com/adhithyaarun/skill-wallet/tree/recommender-system 
 * Wireframes/UI mocks - please update figma 
 
