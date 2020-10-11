@@ -2,8 +2,8 @@
 
 ## Introduction
 * The Babylon Project, World Blockchain Hackathon - 100% community-funded initiative dedicated to inspiring and democratizing awareness and access to global innovation in blockchain.
-* Presentation link - https://github.com/adhithyaarun/skill-wallet/blob/main/Skill%20Wallet%20Pitch%20Deck.pdf
-* Video link - 
+* [Presentation slide deck](https://github.com/adhithyaarun/skill-wallet/blob/main/Skill%20Wallet%20Pitch%20Deck.pdf)
+* [Video link](https://youtu.be/qCaH_Z8D3TQ)  
 
 ## Problem statement
 * By 2030, a billion jobs are liable to be radically transformed by technology. By 2022, everyone would need an extra 100+ hours of learning. Given inequalities in access to higher education, most people will turn to online learning to fill the skill gap. However, there is a need to streamline the online learning industry. Key problems
@@ -22,8 +22,6 @@
 * Verified credentials - https://github.com/adhithyaarun/skill-wallet/tree/blockchain
 * Learning pathway recommendations - https://github.com/adhithyaarun/skill-wallet/tree/recommender-system 
 * Wireframes/UI mocks - please update figma 
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F8NAXn07z9JlQVvIuSUEU2S%2FSkillWallet-Workflow%3Fnode-id%3D9%253A2285%26scaling%3Dscale-down&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 # SkillWallet
 ### Bridging the skill gap with a verified learning portfolio
