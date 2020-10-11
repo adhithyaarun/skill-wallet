@@ -1,9 +1,7 @@
-# SkillWallet
-
 ## Introduction
-* The Babylon Project, World Blockchain Hackathon - 100% community-funded initiative dedicated to inspiring and democratizing awareness and access to global innovation in blockchain.
+* The [Babylon Project, World Blockchain Hackathon](https://worldblockchainhackathon.com/) - 100% community-funded initiative dedicated to inspiring and democratizing awareness and access to global innovation in blockchain.
 * [Presentation slide deck](https://github.com/adhithyaarun/skill-wallet/blob/main/Skill%20Wallet%20Pitch%20Deck.pdf)
-* [Video link](https://youtu.be/qCaH_Z8D3TQ)  
+* Here is the pitch : [Video link](https://youtu.be/qCaH_Z8D3TQ)  
 
 ## Problem statement
 * By 2030, a billion jobs are liable to be radically transformed by technology. By 2022, everyone would need an extra 100+ hours of learning. Given inequalities in access to higher education, most people will turn to online learning to fill the skill gap. However, there is a need to streamline the online learning industry. Key problems
@@ -44,7 +42,6 @@ The main problems we identified can be summarized as follows:
 A distributed credential management system built over a blockchain network has the following advantages over the prevalent centralized, federated, or distributed systems:
 
 #### Decentralization
-
 - Ownership and control over data are not centralized by a single governing body on the blockchain.
 
 #### Distributed System
