@@ -20,7 +20,7 @@
 
 ## MVP
 * Verified credentials - https://github.com/adhithyaarun/skill-wallet/tree/blockchain please update details here.
-* Learning pathway recommendations - https://github.com/adhithyaarun/skill-wallet/tree/recommendation-system please update ML details
+* Learning pathway recommendations - https://github.com/adhithyaarun/skill-wallet/tree/recommender-system 
 * Wireframes/UI mocks - please update figma 
 
   
