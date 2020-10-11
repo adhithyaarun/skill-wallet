@@ -1,6 +1,6 @@
 ## Introduction
 * The [Babylon Project, World Blockchain Hackathon](https://worldblockchainhackathon.com/) - 100% community-funded initiative dedicated to inspiring and democratizing awareness and access to global innovation in blockchain.
-* [Presentation slide deck](https://github.com/adhithyaarun/skill-wallet/blob/main/Skill%20Wallet%20Pitch%20Deck.pdf)
+* [Presentation slide deck](documents/Skill%20Wallet%20Pitch%20Deck.pdf)
 * Here is the pitch : [Video link](https://youtu.be/qCaH_Z8D3TQ)  
 
 ## Problem statement
@@ -23,6 +23,7 @@
 
 # SkillWallet
 ### Bridging the skill gap with a verified learning portfolio
+![](images/Landing%20page.png) | ![](images/Dashboard.png)
 ## Introduction
 SkillWallet is a  platform aimed at providing users with a verified learning portfolio, personalized learning recommendations, and rewards for following through with their learning goals. This document is intended to provide the technical details, product architecture, business model, and use-cases for different categories of users.
 
