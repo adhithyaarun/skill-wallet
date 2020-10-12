@@ -12,6 +12,14 @@ We have the blockchain network and recommendation system code on separate branch
 Play around with the user interface here:
 * [User Interface](https://www.figma.com/proto/8NAXn07z9JlQVvIuSUEU2S/SkillWallet-Workflow?node-id=9%3A2285&scaling=scale-down)
 
+Thanks to the team!
+- Adhithya Arun
+- Aryan V. Jain
+- Ha Linh To
+- Meher Shashwat Nigam
+- Suchira Banerjee
+- Supriya Medapati
+
 ## Problem statement
 By 2030, a billion jobs are liable to be radically transformed by technology. By 2022, everyone would need an extra 100+ hours of learning. Given inequalities in access to higher education, most people will turn to online learning to fill the skill gap. However, there is a need to streamline the online learning industry. Key problems
   * Too many online courses to choose from
@@ -25,14 +33,6 @@ Smart Skill Portfolio powered by blockchain and AI creating a _reflective_, _act
   * Upskill using personalized learning paths
   * Earn rewards for learning and compete with others
   * Build your online skill portfolio to showcase your blockchain verified skills
-  
-Thanks to the team!
-- Adhithya Arun
-- Aryan V. Jain
-- Ha Linh To
-- Meher Shashwat Nigam
-- Suchira Banerjee
-- Supriya Medapati
 
 # SkillWallet
 ### _Bridging the skill gap with a verified learning portfolio_
