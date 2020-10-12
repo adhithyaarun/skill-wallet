@@ -8,7 +8,7 @@
 * Now, run all the files.<br>
 
 <h3>Brief about the system :</h3>
-We used both content based and collaborative filtering method to create this system. This model can be used to recommend skills that you should learn and courier profile you can explore according to your current profile. We used 50,000+ user dataset for clustering and model formation. This system will help users to explore different fileds of area and can also enhance their skills.
+We used both content based and collaborative filtering method to create this system. This model can be used to recommend skills that you should learn and courier profile you can explore according to your current profile. We used 50,000+ user dataset for clustering and model formation. This system will help users to explore different fileds of profile and can also enhance their skills. In 'recommender(content-based).ipynb' you can also check your recommendations by changing the 'match_profile' to '1', you can then mention your skill-set to obtain recommendations.
 
 
 
