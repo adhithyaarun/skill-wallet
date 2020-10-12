@@ -1,7 +1,13 @@
 ## Introduction
 * The [Babylon Project, World Blockchain Hackathon](https://worldblockchainhackathon.com/) - 100% community-funded initiative dedicated to inspiring and democratizing awareness and access to global innovation in blockchain.
+Here is the slide deck and presentation video:
 * [Presentation slide deck](documents/Skill%20Wallet%20Pitch%20Deck.pdf)
 * [Demo video](https://youtu.be/qCaH_Z8D3TQ)  
+We have the blockchain network and recommendation system code on separate branches :
+* [Verified portfolio using Hyperledger Sawtooth (CODE)](https://github.com/adhithyaarun/skill-wallet/tree/blockchain)
+* [Learning pathway recommendation system (CODE)](https://github.com/adhithyaarun/skill-wallet/tree/recommendation-system/recommender) 
+Play around with the user interface here:
+* [User Interface](https://www.figma.com/proto/8NAXn07z9JlQVvIuSUEU2S/SkillWallet-Workflow?node-id=9%3A2285&scaling=scale-down)
 
 ## Problem statement
 By 2030, a billion jobs are liable to be radically transformed by technology. By 2022, everyone would need an extra 100+ hours of learning. Given inequalities in access to higher education, most people will turn to online learning to fill the skill gap. However, there is a need to streamline the online learning industry. Key problems
@@ -16,12 +22,6 @@ Smart Skill Portfolio powered by blockchain and AI creating a _reflective_, _act
   * Upskill using personalized learning paths
   * Earn rewards for learning and compete with others
   * Build your online skill portfolio to showcase your blockchain verified skills
-
-## MVP
-We have the blockchain network and recommendation system code on separate branches :
-* [Verified portfolio using Hyperledger Sawtooth (code)](https://github.com/adhithyaarun/skill-wallet/tree/blockchain)
-* [Learning pathway recommendation system (code)](https://github.com/adhithyaarun/skill-wallet/tree/recommendation-system/recommender) 
-* [User Interface](https://www.figma.com/proto/8NAXn07z9JlQVvIuSUEU2S/SkillWallet-Workflow?node-id=9%3A2285&scaling=scale-down)
 
 # SkillWallet
 ### _Bridging the skill gap with a verified learning portfolio_
