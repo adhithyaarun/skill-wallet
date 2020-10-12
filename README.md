@@ -2,15 +2,16 @@
 * The [Babylon Project, World Blockchain Hackathon](https://worldblockchainhackathon.com/) - 100% community-funded initiative dedicated to inspiring and democratizing awareness and access to global innovation in blockchain.
 Here is the slide deck and presentation video:
 * [Presentation slide deck](documents/Skill%20Wallet%20Pitch%20Deck.pdf)
-* [Demo video](https://youtu.be/qCaH_Z8D3TQ)  
+* [Demo video](https://youtu.be/qCaH_Z8D3TQ)
 
 #### MVP
 We have the blockchain network and recommendation system code on separate branches :
 * [Verified portfolio using Hyperledger Sawtooth (CODE)](https://github.com/adhithyaarun/skill-wallet/tree/blockchain)
 * [Learning pathway recommendation system (CODE)](https://github.com/adhithyaarun/skill-wallet/tree/recommendation-system/recommender) 
 
-Play around with the user interface here:
-* [User Interface](https://www.figma.com/proto/8NAXn07z9JlQVvIuSUEU2S/SkillWallet-Workflow?node-id=9%3A2285&scaling=scale-down)
+Play around with the [User Interface](https://www.figma.com/proto/8NAXn07z9JlQVvIuSUEU2S/SkillWallet-Workflow?node-id=9%3A2285&scaling=scale-down)
+
+View the [Code Demo](https://drive.google.com/drive/folders/11lylT_GkVEkAwhZfMYMC7iTEYQZO97jB?usp=sharing)
 
 Thanks to the team!
 - Adhithya Arun
