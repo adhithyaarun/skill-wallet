@@ -14,12 +14,12 @@ Play around with the [User Interface](https://www.figma.com/proto/8NAXn07z9JlQVv
 View the [Code Demo](https://drive.google.com/drive/folders/11lylT_GkVEkAwhZfMYMC7iTEYQZO97jB?usp=sharing)
 
 Thanks to the team!
-- Adhithya Arun
-- Aryan V. Jain
-- Ha Linh To
-- Meher Shashwat Nigam
-- Suchira Banerjee
-- Supriya Medapati
+- [Adhithya Arun](https://www.linkedin.com/in/adhithyaarun/)
+- [Aryan V. Jain](https://www.linkedin.com/in/aryan-vikas-jain-9006a2189/)
+- [Ha Linh To](https://www.linkedin.com/in/tohalinh/)
+- [Meher Shashwat Nigam](https://www.linkedin.com/in/mehershashwatnigam/)
+- [Suchira Banerjee](https://www.linkedin.com/in/suchira-banerjee-43482769/)
+- [Supriya Medapati](https://www.linkedin.com/in/supriya-medapati/)
 
 ## Problem statement
 By 2030, a billion jobs are liable to be radically transformed by technology. By 2022, everyone would need an extra 100+ hours of learning. Given inequalities in access to higher education, most people will turn to online learning to fill the skill gap. However, there is a need to streamline the online learning industry. Key problems
