@@ -25,6 +25,14 @@ Smart Skill Portfolio powered by blockchain and AI creating a _reflective_, _act
   * Upskill using personalized learning paths
   * Earn rewards for learning and compete with others
   * Build your online skill portfolio to showcase your blockchain verified skills
+  
+Thanks to the team!
+- Adhithya Arun
+- Aryan V. Jain
+- Ha Linh To
+- Meher Shashwat Nigam
+- Suchira Banerjee
+- Supriya Medapati
 
 # SkillWallet
 ### _Bridging the skill gap with a verified learning portfolio_
