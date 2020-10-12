@@ -25,9 +25,9 @@ Smart Skill Portfolio powered by blockchain and AI creating a _reflective_, _act
 # SkillWallet
 ### _Bridging the skill gap with a verified learning portfolio_
 <p align="middle">
- <img src="images/Landing%20page.png" alt="Landing" width="300"/>
- <img src="images/Dashboard.png" alt="Dashboard" width="300"/>
- <img src="images/Learning%20pathways.png" alt="Learning Pathway" width="300"/>
+ <img src="images/Landing%20page.png" alt="Landing" width="250"/>
+ <img src="images/Dashboard.png" alt="Dashboard" width="250"/>
+ <img src="images/Learning%20pathways.png" alt="Learning Pathway" width="250"/>
 </p>
 
 ## Introduction
