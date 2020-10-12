@@ -3,9 +3,11 @@
 Here is the slide deck and presentation video:
 * [Presentation slide deck](documents/Skill%20Wallet%20Pitch%20Deck.pdf)
 * [Demo video](https://youtu.be/qCaH_Z8D3TQ)  
+
 We have the blockchain network and recommendation system code on separate branches :
 * [Verified portfolio using Hyperledger Sawtooth (CODE)](https://github.com/adhithyaarun/skill-wallet/tree/blockchain)
 * [Learning pathway recommendation system (CODE)](https://github.com/adhithyaarun/skill-wallet/tree/recommendation-system/recommender) 
+
 Play around with the user interface here:
 * [User Interface](https://www.figma.com/proto/8NAXn07z9JlQVvIuSUEU2S/SkillWallet-Workflow?node-id=9%3A2285&scaling=scale-down)
 
