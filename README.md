@@ -128,7 +128,7 @@ We plan to integrate with Crptowerk for hard-copy document verification.
 
 ## Features built on the skill-wallet chain to add business value
 
-### The skill recommendation system  [More info](https://github.com/adhithyaarun/skill-wallet/blob/recommender-system/recommender/README.md)
+### The skill recommendation system  ([More info](https://github.com/adhithyaarun/skill-wallet/blob/recommender-system/recommender/README.md))
 An algorithm-driven recommendation system that uses the existing knowledge of indexed skill sets as prepared from the inputs of researchers and domain experts, to recommend skill sets (and maybe courses related to) for a certain learning path/career path. These recommended learning paths, may be curated based on the observed pattern of interest of the learner (or may be based on learner’s query) using the skill-wallet framework. 
 
 ### Incentivising course completion 
