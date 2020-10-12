@@ -10,7 +10,7 @@ We used both content based and collaborative filtering method to create this sys
 
 <h3> Sample Recommendation :</h3>
 
-<img src="https://github.com/adhithyaarun/skill-wallet/blob/recommender-system/recommender/example.PNG" width = 75%/>
+<img src="https://github.com/adhithyaarun/skill-wallet/blob/recommendation-system/recommender/example.PNG" width = 75%/>
 
 <hr>
 <b> Dataset Download Link - </b> https://drive.google.com/drive/folders/1WxWaFDDwN7v_dYs2DXL2v0uVXRqjOMmP?usp=sharing
